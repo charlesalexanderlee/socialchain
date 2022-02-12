@@ -1,1 +1,2 @@
 - Make unfollowing a profile better than O(N)
+- Implement feature to change username

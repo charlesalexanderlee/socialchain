@@ -1,2 +1,4 @@
 - Make unfollowing a profile better than O(N)
+- Migrate to Hardhat development environment
 - Implement feature to change username
+- Deploy front-end on IPFS
